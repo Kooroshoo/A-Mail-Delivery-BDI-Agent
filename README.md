@@ -9,8 +9,8 @@ Implement the knowledge base of the *DeliveryBot* agent, such as the agent is ab
 1. Store it in the right place
 
 #
-**This excersise was provided by Paolo Giorgini and Francesco Alzetta as part of the course Agent-oriented software engineering at the University of Trento**
+**This excersise was provided by Paolo Giorgini and Francesco Alzetta as part of the course Agent-oriented software engineering at the University of Trento.**
 
-**The core implementation is courtesy of Nicola Poli and Università degli Studi di Bologna**
+**The core implementation is courtesy of Nicola Poli and Università degli Studi di Bologna.**
 
 The original work is available @ https://github.com/conner985/UnityLogic
