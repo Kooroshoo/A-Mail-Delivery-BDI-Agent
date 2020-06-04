@@ -1,5 +1,5 @@
 # Mail Delivery BDI Agent
- A Mail Delivery BDI Agent with UnityProlog
+ A Mail Delivery BDI Agent created with UnityProlog
 
 ![Mail BDI Agent](https://user-images.githubusercontent.com/26629624/83754119-bcf36280-a66b-11ea-80dd-2100d77f61b2.gif)
  
