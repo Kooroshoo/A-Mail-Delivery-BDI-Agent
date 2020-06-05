@@ -13,7 +13,7 @@ Implement the knowledge base of the *DeliveryBot* agent, such as the agent is ab
 #
 This project is done in Unity 2017.4
 
-**This exercise was provided by Paolo Giorgini and Francesco Alzetta as part of the course Agent-oriented software engineering at the University of Trento.**
+**This framework was provided by Paolo Giorgini and Francesco Alzetta as part of the course Agent-oriented software engineering at the University of Trento.**
 
 **The core implementation is courtesy of Nicola Poli and Università degli Studi di Bologna.**
 
